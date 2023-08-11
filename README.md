@@ -21,11 +21,7 @@ This project is a web-based discussion forum that allows users to create threads
 - User Registration and Login
 - Thread Creation with Titles, Content, and Tags
 - Replies and Comments on Threads
-- Like and Voting System
-- Search Functionality
-- User Profiles with Activity Tracking
-- Notification System
-- Moderation Tools (if applicable)
+
 
 ## Technologies Used
 
